@@ -121,11 +121,15 @@ body {
     animation-name: animation;
     animation-duration: 3s;
 }
+#danye {
+    width: 75ch;
+    padding: 3em
+}
 #divide {
     float: left;
 }
 a:hover {
-    font-size: 400%;
+    font-size: 200%;
 }
 a {
     color: white;
@@ -147,3 +151,35 @@ a {
 aside {
 float: right
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    }
+    
+    li {
+    float: left;
+    }
+    
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    
+    li a:hover {
+    background-color: #111;
+    }
+    #header10 {
+        font-size: 3.0rem;
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+    #ken {
+        width: 35ch;
+        padding: 3em;
+    }
