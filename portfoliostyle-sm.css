@@ -3,63 +3,87 @@ img {
     padding: 3em;
 }
 #paragraph1 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #paragraph2 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 #paragraph3 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 }
 #paragraph4 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 }
 #paragraph5 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 }
 #paragraph6 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 }
 #paragraph7 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 }
 #paragraph8 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 }
 #paragraph9 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 }
 #paragraph10 {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 }
 #header1 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 #header2 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 #header3 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 #header4 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 #header5 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 #header6 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 #header7 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 #header8 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 #header9 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+}
+#danye {
+    width: 26ch;
+    padding: 3em;
+}
+#ken {
+    width: 26ch;
+    padding: 3em;
+}
+#nas {
+    width: 26ch;
+    padding: 3em;
+}
+#bbn {
+    width: 26ch;
+    padding: 3em;
+}
+#mrsa {
+    width: 26ch;
+    padding: 3em;
+}
+#img {
+    width: 26ch;
+    padding: 3em;
 }
